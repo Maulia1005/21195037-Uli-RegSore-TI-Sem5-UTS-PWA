@@ -1,0 +1,22 @@
+{
+  "name": "Maulia_Nursidik",
+  "short_name": "Maulia",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f8fcfa",
+  "theme_color": "#f8fcfa",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/img/maulianursidik.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/javascript2.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
